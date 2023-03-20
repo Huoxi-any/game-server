@@ -44,7 +44,7 @@
 		<dependency>
 			<groupId>com.squareup.retrofit</groupId>
 			<artifactId>converter-simplexml</artifactId>
-			<version>1.6.1</version>
+			<version>1.9.0</version>
 		</dependency>
 	</dependencies>
 	<build>
